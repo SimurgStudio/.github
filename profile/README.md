@@ -1,4 +1,8 @@
-### Welcome to the Simurg Studio!
+## Welcome to the Simurg Studio!
+
+![imagination](https://user-images.githubusercontent.com/51908811/195447874-a8739824-74c6-4056-bcc7-8b2d7b4cab88.jpg)
+
+We are full-service development studio, with teams of talented specialists ready to help you bild your product. We focus on the details that matter most - UI & UX Design, Frontend Development, Backend Development, Mobile Application Development.
 
 <!--
 
